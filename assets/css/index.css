@@ -1,0 +1,19 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+ /* body {
+  padding-top: 3.5rem;
+}  */
+
+.banner-custom{
+  height: 10rem;
+  padding: 2rem;
+
+  background-image: url('../../imgs/sample_bg.jpg');
+
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.bg-custom {
+  background-color:rgba(0,0,0,.8);
+}
